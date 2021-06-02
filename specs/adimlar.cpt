@@ -1,0 +1,49 @@
+# Bilet al butonuna tıklanır
+* "2" saniye bekle
+*buttona tıkla
+* "2" saniye bekle
+
+# THY Uygulaması Açılır.
+* "2" saniye bekle
+*Konum Paylasımi Onayla
+* "2" saniye bekle
+*Cerez Onayla
+* "2" saniye bekle
+
+#Sayfanın açıldığını doğrula sonra Uçuş bilgilerini seç
+* "2" saniye bekle
+*Uçuş seç
+* "2" saniye bekle
+*ekonomik clas seç
+* "2" saniye bekle
+
+
+
+#Devam et buttonuna tıklanır
+* "2" saniye bekle
+*Devam et
+* "2" saniye bekle
+#Yön bilgisi olarak SAW to ESB Seçilir
+*Tek Yön Seç
+* "2" saniye bekle
+*"saw"From seç
+* "2" saniye bekle
+*"esb"To seç
+* "2" saniye bekle
+
+
+
+#Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+* "2" saniye bekle
+*Tarih ayarla
+* "2" saniye bekle
+
+#Yetişkin bilgisi 2 olarak seçilir
+* "2" saniye bekle
+*Kişi sayisi ayarla
+
+
+#Uçuş ara butonuna tıklanır.
+* "2" saniye bekle
+*Uçuş ara
+* "2" saniye bekle

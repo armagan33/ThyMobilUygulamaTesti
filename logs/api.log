@@ -1,0 +1,163 @@
+02-06-2021 21:17:16.654 [Gauge] [INFO] Watching directory: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs
+02-06-2021 21:17:16.656 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2021 21:17:16.657 [Gauge] [DEBUG] Found 1 files
+02-06-2021 21:17:16.668 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-06-2021 21:17:16.668 [Gauge] [DEBUG] Adding specs from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 21:17:16.668 [Gauge] [INFO] Initializing steps cache with 1 steps
+02-06-2021 21:17:16.668 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53985
+02-06-2021 21:36:36.528 [Gauge] [INFO] Spec file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 21:36:36.745 [Gauge] [INFO] Spec file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 21:37:28.760 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:37:28.795 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:37:28.832 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:37:29.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step1" > 
+02-06-2021 21:37:29.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+02-06-2021 21:37:29.384 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Concept Heading" > 
+02-06-2021 21:37:29.384 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > > 
+02-06-2021 21:37:29.385 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step2" > 
+02-06-2021 21:37:29.385 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+02-06-2021 21:37:54.160 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:37:54.161 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:37:55.112 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:37:55.113 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:38:03.223 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:38:03.255 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:38:06.279 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:38:06.299 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 21:45:02.250 [Gauge] [INFO] Spec file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 21:45:02.616 [Gauge] [INFO] Spec file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 22:44:59.927 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:04:13.606 [Gauge] [INFO] Spec file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 23:05:35.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"K" > 
+02-06-2021 23:05:35.618 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"K" parameterizedStepValue:"K" > > 
+02-06-2021 23:05:38.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum" > 
+02-06-2021 23:05:38.159 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum" parameterizedStepValue:"Konum" > > 
+02-06-2021 23:05:40.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum " > 
+02-06-2021 23:05:40.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum" parameterizedStepValue:"Konum" > > 
+02-06-2021 23:06:13.087 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ko" > 
+02-06-2021 23:06:13.087 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ko" parameterizedStepValue:"Ko" > > 
+02-06-2021 23:06:13.770 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konu" > 
+02-06-2021 23:06:13.770 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konu" parameterizedStepValue:"Konu" > > 
+02-06-2021 23:06:27.698 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Pa" > 
+02-06-2021 23:06:27.698 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Pa" parameterizedStepValue:"Konum Pa" > > 
+02-06-2021 23:06:29.085 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Payla" > 
+02-06-2021 23:06:29.085 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Payla" parameterizedStepValue:"Konum Payla" > > 
+02-06-2021 23:06:29.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Paylas\304\261" > 
+02-06-2021 23:06:29.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Paylas\304\261" parameterizedStepValue:"Konum Paylas\304\261" > > 
+02-06-2021 23:06:30.486 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Paylas\304\261m" > 
+02-06-2021 23:06:30.486 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Paylas\304\261m" parameterizedStepValue:"Konum Paylas\304\261m" > > 
+02-06-2021 23:06:31.350 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Paylas\304\261mi " > 
+02-06-2021 23:06:31.350 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Paylas\304\261mi" parameterizedStepValue:"Konum Paylas\304\261mi" > > 
+02-06-2021 23:06:31.774 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Paylas\304\261mi O" > 
+02-06-2021 23:06:31.774 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Paylas\304\261mi O" parameterizedStepValue:"Konum Paylas\304\261mi O" > > 
+02-06-2021 23:06:32.744 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Paylas\304\261mi Onayla" > 
+02-06-2021 23:06:32.745 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Paylas\304\261mi Onayla" parameterizedStepValue:"Konum Paylas\304\261mi Onayla" > > 
+02-06-2021 23:07:00.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Konum Paylas\304\261mi Onayla" > 
+02-06-2021 23:07:00.895 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Konum Paylas\304\261mi Onayla" parameterizedStepValue:"*Konum Paylas\304\261mi Onayla" > > 
+02-06-2021 23:07:57.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cere" > 
+02-06-2021 23:07:57.690 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cere" parameterizedStepValue:"Cere" > > 
+02-06-2021 23:07:58.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cerez" > 
+02-06-2021 23:07:58.735 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cerez" parameterizedStepValue:"Cerez" > > 
+02-06-2021 23:07:59.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cerez " > 
+02-06-2021 23:07:59.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cerez" parameterizedStepValue:"Cerez" > > 
+02-06-2021 23:08:01.110 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cerez O" > 
+02-06-2021 23:08:01.111 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cerez O" parameterizedStepValue:"Cerez O" > > 
+02-06-2021 23:08:03.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cerez Onayla" > 
+02-06-2021 23:08:03.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cerez Onayla" parameterizedStepValue:"Cerez Onayla" > > 
+02-06-2021 23:08:44.280 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Cerez Onayla" > 
+02-06-2021 23:08:44.291 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Cerez Onayla" parameterizedStepValue:"*Cerez Onayla" > > 
+02-06-2021 23:09:24.490 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:09:24.702 [Gauge] [INFO] Concept file added / modified: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.126 [Gauge] [INFO] Watching directory: C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs
+02-06-2021 23:24:10.127 [Gauge] [DEBUG] Found 2 files
+02-06-2021 23:24:10.153 [Gauge] [INFO] Initializing concepts cache with 8 concepts
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.153 [Gauge] [DEBUG] Adding concepts from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\adimlar.cpt
+02-06-2021 23:24:10.157 [Gauge] [INFO] Initializing specs cache with 1 specs
+02-06-2021 23:24:10.157 [Gauge] [DEBUG] Adding specs from C:\Users\Armagan\IdeaProjects\ThyOtomasyon\specs\example.spec
+02-06-2021 23:24:10.157 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-06-2021 23:24:10.157 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57866
+02-06-2021 23:24:23.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<seconds> saniye bekle" > 
+02-06-2021 23:24:23.086 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<seconds> saniye bekle" parameters:"seconds" > > 
+02-06-2021 23:24:23.134 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Konum Paylas\304\261mi Onayla" > 
+02-06-2021 23:24:23.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Konum Paylas\304\261mi Onayla" parameterizedStepValue:"Konum Paylas\304\261mi Onayla" > > 
+02-06-2021 23:24:23.148 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cerez Onayla" > 
+02-06-2021 23:24:23.149 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cerez Onayla" parameterizedStepValue:"Cerez Onayla" > > 
+02-06-2021 23:24:23.161 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"buttona t\304\261kla" > 
+02-06-2021 23:24:23.161 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"buttona t\304\261kla" parameterizedStepValue:"buttona t\304\261kla" > > 
+02-06-2021 23:24:23.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tek Y\303\266n Se\303\247" > 
+02-06-2021 23:24:23.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tek Y\303\266n Se\303\247" parameterizedStepValue:"Tek Y\303\266n Se\303\247" > > 
+02-06-2021 23:24:23.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<value>From se\303\247" > 
+02-06-2021 23:24:23.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}From se\303\247" parameterizedStepValue:"<value>From se\303\247" parameters:"value" > > 
+02-06-2021 23:24:23.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<value>To se\303\247" > 
+02-06-2021 23:24:23.246 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}To se\303\247" parameterizedStepValue:"<value>To se\303\247" parameters:"value" > > 
+02-06-2021 23:24:23.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ki\305\237i sayisi ayarla" > 
+02-06-2021 23:24:23.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ki\305\237i sayisi ayarla" parameterizedStepValue:"Ki\305\237i sayisi ayarla" > > 
+02-06-2021 23:24:23.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tarih ayarla" > 
+02-06-2021 23:24:23.282 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tarih ayarla" parameterizedStepValue:"Tarih ayarla" > > 
+02-06-2021 23:24:23.292 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"U\303\247u\305\237 ara" > 
+02-06-2021 23:24:23.292 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"U\303\247u\305\237 ara" parameterizedStepValue:"U\303\247u\305\237 ara" > > 
+02-06-2021 23:24:23.293 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"U\303\247u\305\237 se\303\247" > 
+02-06-2021 23:24:23.293 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"U\303\247u\305\237 se\303\247" parameterizedStepValue:"U\303\247u\305\237 se\303\247" > > 
+02-06-2021 23:24:23.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ekonomik clas se\303\247" > 
+02-06-2021 23:24:23.307 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ekonomik clas se\303\247" parameterizedStepValue:"ekonomik clas se\303\247" > > 
+02-06-2021 23:24:23.319 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Devam et" > 
+02-06-2021 23:24:23.319 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Devam et" parameterizedStepValue:"Devam et" > > 
+02-06-2021 23:24:23.363 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"2\" saniye bekle" > 
+02-06-2021 23:24:23.363 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} saniye bekle" parameterizedStepValue:"* <2> saniye bekle" parameters:"2" > > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*buttona t\304\261kla" > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*buttona t\304\261kla" parameterizedStepValue:"*buttona t\304\261kla" > > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Konum Paylas\304\261mi Onayla" > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Konum Paylas\304\261mi Onayla" parameterizedStepValue:"*Konum Paylas\304\261mi Onayla" > > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Cerez Onayla" > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Cerez Onayla" parameterizedStepValue:"*Cerez Onayla" > > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*U\303\247u\305\237 se\303\247" > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*U\303\247u\305\237 se\303\247" parameterizedStepValue:"*U\303\247u\305\237 se\303\247" > > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*ekonomik clas se\303\247" > 
+02-06-2021 23:24:23.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*ekonomik clas se\303\247" parameterizedStepValue:"*ekonomik clas se\303\247" > > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Devam et" > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Devam et" parameterizedStepValue:"*Devam et" > > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Tek Y\303\266n Se\303\247" > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Tek Y\303\266n Se\303\247" parameterizedStepValue:"*Tek Y\303\266n Se\303\247" > > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*\"saw\"From se\303\247" > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*{}From se\303\247" parameterizedStepValue:"*<saw>From se\303\247" parameters:"saw" > > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*\"esb\"To se\303\247" > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*{}To se\303\247" parameterizedStepValue:"*<esb>To se\303\247" parameters:"esb" > > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Tarih ayarla" > 
+02-06-2021 23:24:23.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Tarih ayarla" parameterizedStepValue:"*Tarih ayarla" > > 
+02-06-2021 23:24:23.366 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*Ki\305\237i sayisi ayarla" > 
+02-06-2021 23:24:23.366 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*Ki\305\237i sayisi ayarla" parameterizedStepValue:"*Ki\305\237i sayisi ayarla" > > 
+02-06-2021 23:24:23.366 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*U\303\247u\305\237 ara" > 
+02-06-2021 23:24:23.366 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*U\303\247u\305\237 ara" parameterizedStepValue:"*U\303\247u\305\237 ara" > > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"THY Uygulamas\304\261 A\303\247\304\261l\304\261r." > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"THY Uygulamas\304\261 A\303\247\304\261l\304\261r." parameterizedStepValue:"THY Uygulamas\304\261 A\303\247\304\261l\304\261r." > > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bilet al butonuna t\304\261klan\304\261r" > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bilet al butonuna t\304\261klan\304\261r" parameterizedStepValue:"Bilet al butonuna t\304\261klan\304\261r" > > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Y\303\266n bilgisi olarak SAW to ESB Se\303\247ilir" > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Y\303\266n bilgisi olarak SAW to ESB Se\303\247ilir" parameterizedStepValue:"Y\303\266n bilgisi olarak SAW to ESB Se\303\247ilir" > > 
+02-06-2021 23:24:23.375 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Tarih bilgisi g\303\274n\303\274n tarihinden 2 g\303\274n sonraya se\303\247ilir" > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Tarih bilgisi g\303\274n\303\274n tarihinden 2 g\303\274n sonraya se\303\247ilir" parameterizedStepValue:"Tarih bilgisi g\303\274n\303\274n tarihinden 2 g\303\274n sonraya se\303\247ilir" > > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Yeti\305\237kin bilgisi 2 olarak se\303\247ilir" > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yeti\305\237kin bilgisi 2 olarak se\303\247ilir" parameterizedStepValue:"Yeti\305\237kin bilgisi 2 olarak se\303\247ilir" > > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"U\303\247u\305\237 ara butonuna t\304\261klan\304\261r." > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"U\303\247u\305\237 ara butonuna t\304\261klan\304\261r." parameterizedStepValue:"U\303\247u\305\237 ara butonuna t\304\261klan\304\261r." > > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sayfan\304\261n a\303\247\304\261ld\304\261\304\237\304\261n\304\261 do\304\237rula sonra U\303\247u\305\237 bilgilerini se\303\247" > 
+02-06-2021 23:24:23.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sayfan\304\261n a\303\247\304\261ld\304\261\304\237\304\261n\304\261 do\304\237rula sonra U\303\247u\305\237 bilgilerini se\303\247" parameterizedStepValue:"Sayfan\304\261n a\303\247\304\261ld\304\261\304\237\304\261n\304\261 do\304\237rula sonra U\303\247u\305\237 bilgilerini se\303\247" > > 
+02-06-2021 23:24:23.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Devam et buttonuna t\304\261klan\304\261r" > 
+02-06-2021 23:24:23.377 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Devam et buttonuna t\304\261klan\304\261r" parameterizedStepValue:"Devam et buttonuna t\304\261klan\304\261r" > > 
+02-06-2021 23:26:36.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"2\" saniye bekle" > 
+02-06-2021 23:26:36.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<2> saniye bekle" parameters:"2" > > 
+02-06-2021 23:26:36.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"saw\"From se\303\247" > 
+02-06-2021 23:26:36.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}From se\303\247" parameterizedStepValue:"<saw>From se\303\247" parameters:"saw" > > 
+02-06-2021 23:26:36.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"esb\"To se\303\247" > 
+02-06-2021 23:26:36.659 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{}To se\303\247" parameterizedStepValue:"<esb>To se\303\247" parameters:"esb" > > 
+02-06-2021 23:26:41.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Bilet al butonuna t\304\261klan\304\261r" > 
+02-06-2021 23:26:41.551 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bilet al butonuna t\304\261klan\304\261r" parameterizedStepValue:"Bilet al butonuna t\304\261klan\304\261r" > > 
+02-06-2021 23:26:41.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" THY Uygulamas\304\261 A\303\247\304\261l\304\261r." > 
+02-06-2021 23:26:41.551 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"THY Uygulamas\304\261 A\303\247\304\261l\304\261r." parameterizedStepValue:"THY Uygulamas\304\261 A\303\247\304\261l\304\261r." > > 
